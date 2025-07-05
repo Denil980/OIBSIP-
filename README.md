@@ -15,5 +15,5 @@ A fully responsive, modern, and stylish landing page for the **Ford Mustang**, f
 - World map image for global presence
 - Mobile-friendly and fully responsive design
 
----
+
 
