@@ -17,9 +17,3 @@ A fully responsive, modern, and stylish landing page for the **Ford Mustang**, f
 
 ---
 
-## 🖼️ Screenshot
-
-> *(Optional – Add a screenshot named `screenshot.png` inside `/task3/images` and uncomment below)*
-
-```markdown
-![Landing Page Screenshot](images/screenshot.png)
