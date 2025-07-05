@@ -17,3 +17,16 @@ A fully responsive, modern, and stylish landing page for the **Ford Mustang**, f
 
 
 
+# 🌡️ Task 3: Temperature Converter
+
+This project is a **basic temperature converter** built using HTML, CSS, and JavaScript. It allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin. This task is part of a beginner-level HTML project series.
+
+---
+
+## 🚀 Features
+
+- 🌡️ Convert between Celsius, Fahrenheit, and Kelvin
+- ✅ Handles same unit conversion
+- ❌ Shows error for invalid or empty input
+- 🔁 Includes a Reset button
+- 🎨 Simple gradient background and styled form
